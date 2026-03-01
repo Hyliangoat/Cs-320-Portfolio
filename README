@@ -1,1 +1,10 @@
-Portfolio projects from CS 320
+This course allowed me to utilize some of the most common testing methodologies within the software development life cycle. Specifically,
+I spent much of my time using unit testing within java JUnit tests. These projects taught me how to better formulate my process
+through test driven development, to ensure my code was function, secure, and met the desires and requirements of the customer.
+
+Much of the interpretation of user needs comes from the many interactions with the customer, ensuring that questions are asked
+and clarification is gained from their desires. Things like basic security, types of input, basic application functionality,
+and some edge cases can be taken from the interections with the customer/user before even beginning the project.
+
+I approach designing software aggressively, and directly. I like to take what the customer needs, and ensure that they are
+given a solid, secure, error free baseline to work from, so that we can both improve on the software as needed from that baseline.
